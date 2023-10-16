@@ -95,3 +95,5 @@ POST /users/logout 10-10-2023_12:08:29
 GET /api/contacts 10-10-2023_12:09:27
 POST /api/contacts 10-10-2023_12:18:41
 POST /api/contacts 10-10-2023_12:19:16
+POST /users/register 13-10-2023_11:40:05
+POST /users/register 13-10-2023_11:40:24
